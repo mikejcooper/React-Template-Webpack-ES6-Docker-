@@ -2,78 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a55e0e85-b70c-4736-b12b-ea3add882c79" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/components/svgs/FacebookSignInButton.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/components/svgs/GoogleSignInButton.js" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/components/common/TextFieldGroup.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/components/eventCarousel/EventCarousel.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/components/eventCarousel/EventCarousel.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/components/eventCarousel/EventCarouselBar.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/components/eventCarousel/EventCarouselBar.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/components/eventCarousel/EventCarouselItem.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/components/eventCarousel/EventCarouselItem.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/components/flash/FlashMessage.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/components/flash/FlashMessagesList.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/components/navigationBar/NavigationBarMobile.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/components/pages/event/Event.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/components/pages/event/Event.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/components/pages/event/EventDataCard.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/components/pages/event/EventRelatedCard.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/components/pages/search/ResultsView/ResultsView.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/components/pages/search/ResultsView/ResultsView.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/components/pages/search/SearchBar/SearchBar.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/components/pages/search/SearchBar/SearchBar.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/components/pages/search/SearchBar/SearchTag/SearchTag.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/components/pages/search/SearchBar/SearchTag/SearchTag.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/components/pages/search/SearchPage.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/components/pages/search/SearchPage.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/components/pages/search/TagSpace/SuggestTag/SuggestTag.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/components/pages/search/TagSpace/SuggestTag/SuggestTag.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/components/pages/search/TagSpace/TagSpace.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/components/pages/search/TagSpace/TagSpace.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/components/signIn/FacebookSocialLogin.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/components/signIn/GoogleSocialLogin.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/components/signIn/SignInModal.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/components/signIn/SignInModal.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/components/signIn/SignInModalContainer.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/components/signIn/SocialComponents/facebookComponent.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/components/signIn/SocialComponents/googleComponent.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/components/signup/SignupForm.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/components/signup/SignupPage.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/modules/actions/eventActions.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/modules/actions/flashMessagesActions.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/modules/actions/searchBarActions.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/modules/actions/signupActions.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/modules/data/timezones.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/modules/reducers/eventReducer.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/modules/reducers/flashMessagesReducer.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/modules/reducers/searchBarReducer.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/modules/reducers/signUserReducer.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/server/routes/users.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/server/shared/validations/signup.js" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/client/components/EventModal/EventModal.css" afterPath="$PROJECT_DIR$/client/components/modals/EventModal/EventModal.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/client/components/EventModal/EventModal.js" afterPath="$PROJECT_DIR$/client/components/modals/EventModal/EventModal.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/client/components/EventModal/EventModalContainer.js" afterPath="$PROJECT_DIR$/client/components/modals/EventModal/EventModalContainer.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/client/components/svg/InfoIcon.js" afterPath="$PROJECT_DIR$/client/components/svgs/InfoIcon.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/client/components/svg/LocationIcon.js" afterPath="$PROJECT_DIR$/client/components/svgs/LocationIcon.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/client/components/svg/MoreIcon.js" afterPath="$PROJECT_DIR$/client/components/svgs/MoreIcon.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/client/components/svg/SignUpButton.js" afterPath="$PROJECT_DIR$/client/components/svgs/SignUpButton.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/client/components/svg/TimeIcon.js" afterPath="$PROJECT_DIR$/client/components/svgs/TimeIcon.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/components/App.css" afterPath="$PROJECT_DIR$/client/components/App.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/components/App.js" afterPath="$PROJECT_DIR$/client/components/App.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/components/navigationBar/NavigationBar.css" afterPath="$PROJECT_DIR$/client/components/navigationBar/NavigationBar.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/components/navigationBar/NavigationBar.js" afterPath="$PROJECT_DIR$/client/components/navigationBar/NavigationBar.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/components/navigationBar/NavigationBarSearch.js" afterPath="$PROJECT_DIR$/client/components/navigationBar/NavigationBarSearch.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/components/navigationBar/NavigationBarSearchResults.js" afterPath="$PROJECT_DIR$/client/components/navigationBar/NavigationBarSearchResults.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/components/pages/home/Home.js" afterPath="$PROJECT_DIR$/client/components/pages/home/Home.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/modules/actions/modalActions.js" afterPath="$PROJECT_DIR$/client/modules/actions/modalActions.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/modules/actions/types.js" afterPath="$PROJECT_DIR$/client/modules/actions/types.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/modules/reducers/combineReducers.js" afterPath="$PROJECT_DIR$/client/modules/reducers/combineReducers.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/modules/reducers/modalReducer.js" afterPath="$PROJECT_DIR$/client/modules/reducers/modalReducer.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/routes.js" afterPath="$PROJECT_DIR$/client/routes.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/index.js" afterPath="$PROJECT_DIR$/server/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webpack.config.dev.js" afterPath="$PROJECT_DIR$/webpack.config.dev.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/readme.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -159,24 +88,22 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="package.json" pinned="false" current-in-tab="true">
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="150">
-              <caret line="10" column="17" lean-forward="true" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+              <caret line="10" column="17" lean-forward="false" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="NavigationBarSearch.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/client/components/navigationBar/NavigationBarSearch.js">
+      <file leaf-file-name="readme.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/readme.md">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
-              <caret line="12" column="3" lean-forward="false" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
-              <folding>
-                <element signature="e#0#26#0" expanded="true" />
-              </folding>
+              <caret line="12" column="2" lean-forward="false" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -256,7 +183,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/client/components/navigationBar/NavigationBarSearchResults.css" />
         <option value="$PROJECT_DIR$/client/components/pages/home/Home.css" />
         <option value="$PROJECT_DIR$/client/components/pages/event/EventModalContainer.js" />
         <option value="$PROJECT_DIR$/client/modules/actions/appTransitions.js" />
@@ -307,6 +233,7 @@
         <option value="$PROJECT_DIR$/webpack.config.dev.js" />
         <option value="$PROJECT_DIR$/client/components/App.js" />
         <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/readme.md" />
       </list>
     </option>
   </component>
@@ -458,130 +385,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="Personal Website" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Personal Website" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Personal Website" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="client" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Personal Website" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Personal Website" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="client" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="modules" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="reducers" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Personal Website" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Personal Website" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="client" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="modules" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="actions" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Personal Website" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Personal Website" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="client" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="components" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Personal Website" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Personal Website" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="client" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="components" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="navigationBar" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Personal Website" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Personal Website" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="client" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="components" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="modals" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="EventModal" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -743,12 +546,12 @@
       <workItem from="1496608522799" duration="18666000" />
       <workItem from="1496837836780" duration="104600000" />
       <workItem from="1497553253735" duration="536000" />
-      <workItem from="1497874923434" duration="1085000" />
+      <workItem from="1497874923434" duration="1476000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="207043000" />
+    <option name="totallyTimeSpent" value="207434000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -807,13 +610,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/client/components/eventCarousel/EventCarouselBar.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="3" column="7" lean-forward="false" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/client/components/eventCarousel/EventCarouselBar.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -1115,7 +911,7 @@
         <state relative-caret-position="180">
           <caret line="12" column="3" lean-forward="false" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
           <folding>
-            <element signature="e#0#26#0" expanded="true" />
+            <element signature="e#0#26#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1192,7 +988,15 @@
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
-          <caret line="10" column="17" lean-forward="true" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+          <caret line="10" column="17" lean-forward="false" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readme.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="2" lean-forward="false" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
           <folding />
         </state>
       </provider>
